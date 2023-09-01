@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giuliana-Silva
 - 👀 I’m interested in Testing
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on proyects
 - 📫 How to reach me ...
 
